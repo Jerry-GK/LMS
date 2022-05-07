@@ -1,0 +1,3 @@
+005 Newspaper People_newpaper People_Press 2022 Li_Hua 8.5 2
+006 TextBook C++Primer China_Press 2008 Stanley 50.8 1
+007 Novel Harry_Potter China_Press 2005 J.K._Rowling 40.3 7
